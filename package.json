@@ -1,5 +1,5 @@
 {
-  "homepage": "https://RaviP9973.github.io/shop-app",
+  "homepage": "http://RaviP9973.github.io/shop-app",
   "name": "shop-app-react",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy":"gh-pages -d build",
